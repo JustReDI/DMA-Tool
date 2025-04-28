@@ -16,6 +16,6 @@ The **frontend** was developed using **HTML and CSS**, without the use of specia
 
 The architecture of the application is **monolithic**, with a clear separation between the presentation layer (HTML/CSS), the business logic (PHP), and data storage (MariaDB). The source code is organized into three main files: `index.php`, `api.php`, and `style.css`, maintaining a logic of simplicity and extensibility. The `api.php` file is specifically used for integrating the application with other platforms of the **JustReDI** project and for providing aggregated results regarding the digital maturity of businesses by geographic region and main economic activity.
 
-## Conclusion
+## Online Deployment
 
-Overall, the tool constitutes a lightweight, efficient, and technically accessible implementation, without requiring complex infrastructure. It provides the capability for simple recording and assessment processes, while presenting results in a clear and user-friendly manner.
+The **DMA Tool** is deployed online at the following URL: [https://dma.justredi.gr](https://dma.justredi.gr/)
